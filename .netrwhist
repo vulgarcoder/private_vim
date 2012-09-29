@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/share/ca-certificates'
+let g:netrw_dirhist_2='/home/dinglb/work/ewhine/.bundle'
+let g:netrw_dirhist_3='/home/dinglb/work/ewhine/app/assets/javascripts/app/views/feeds'
